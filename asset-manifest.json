@@ -1,19 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.8dd14feb.js",
+    "main.js": "/static/js/main.1a690177.js",
     "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/Crown-clothing.png": "/static/media/Crown-clothing.9a536ff45551781d9a94.png",
     "static/media/photo1.png": "/static/media/photo1.7d84f68bdeb774d5b028.png",
+    "static/media/dilawar.JPG": "/static/media/dilawar.04d9dc77421f453a974a.JPG",
     "static/media/photo2.png": "/static/media/photo2.3b0feaef381f7b9247c7.png",
     "static/media/photo3.png": "/static/media/photo3.384eacb31679fa831f41.png",
-    "static/media/photo4.png": "/static/media/photo4.63425cb13f93bc321b0b.png",
+    "static/media/Dilawar Frontend Resume.pdf": "/static/media/Dilawar Frontend Resume.295ac2e14a31580ec6c9.pdf",
     "index.html": "/index.html",
     "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.8dd14feb.js.map": "/static/js/main.8dd14feb.js.map",
+    "main.1a690177.js.map": "/static/js/main.1a690177.js.map",
     "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.8dd14feb.js"
+    "static/js/main.1a690177.js"
   ]
 }
